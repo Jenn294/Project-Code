@@ -1,0 +1,301 @@
+Product_Position,Promotion,Product_Category,Seasonal,Sales_Volume,Original_Price,Discounted_Price,Product_Name
+Front of Store,No Discount,Puffer Jacket,Yes,70,80,80,H&M Women Puffer Jacket 001
+Near Fitting Rooms,No Discount,Jeans,No,26,60,60,H&M Women Jeans 002
+Middle Aisle,No Discount,Wide-Leg Trousers,No,26,20,20,H&M Women Wide-Leg Trousers 003
+Window Display,50% Off,Skirt,Yes,95,30,15,H&M Women Skirt 004
+Near Fitting Rooms,50% Off,Puffer Jacket,Yes,91,105,52,H&M Women Puffer Jacket 005
+Endcap,No Discount,Wide-Leg Trousers,No,138,50,50,H&M Women Wide-Leg Trousers 006
+Endcap,20% Off,Winter Coat,Yes,73,60,48,H&M Women Winter Coat 007
+Front of Store,30% Off,Blouse,No,166,10,7,H&M Women Blouse 008
+Endcap,No Discount,Wide-Leg Trousers,No,117,45,45,H&M Women Wide-Leg Trousers 009
+Middle Aisle,No Discount,Blouse,No,52,30,30,H&M Women Blouse 010
+Back Wall,20% Off,Puffer Jacket,Yes,105,70,56,H&M Women Puffer Jacket 011
+Front of Store,Clearance,Blouse,No,123,15,6,H&M Women Blouse 012
+Middle Aisle,20% Off,Blouse,No,96,25,20,H&M Women Blouse 013
+Window Display,20% Off,Cardigan,No,68,25,20,H&M Women Cardigan 014
+Near Fitting Rooms,No Discount,Puffer Jacket,Yes,83,65,65,H&M Women Puffer Jacket 015
+Window Display,30% Off,Skirt,Yes,178,25,18,H&M Women Skirt 016
+Window Display,Clearance,Hoodie,No,128,30,15,H&M Women Hoodie 017
+Middle Aisle,20% Off,Cardigan,No,42,15,12,H&M Women Cardigan 018
+Near Fitting Rooms,20% Off,Wide-Leg Trousers,No,98,25,20,H&M Women Wide-Leg Trousers 019
+Middle Aisle,Clearance,Formal Shirt,No,76,35,18,H&M Women Formal Shirt 020
+Near Fitting Rooms,50% Off,Skirt,Yes,115,30,15,H&M Women Skirt 021
+Middle Aisle,50% Off,Wide-Leg Trousers,No,95,35,18,H&M Women Wide-Leg Trousers 022
+Back Wall,30% Off,Jeans,No,134,25,18,H&M Women Jeans 023
+Window Display,Clearance,Blouse,No,141,15,5,H&M Women Blouse 024
+Middle Aisle,50% Off,Winter Coat,Yes,118,110,55,H&M Women Winter Coat 025
+Cash Counter Zone,No Discount,Hoodie,No,107,45,45,H&M Women Hoodie 026
+Near Fitting Rooms,50% Off,Blouse,No,174,20,10,H&M Women Blouse 027
+Front of Store,20% Off,Cardigan,No,74,30,24,H&M Women Cardigan 028
+Near Fitting Rooms,Clearance,Summer Dress,Yes,143,25,8,H&M Women Summer Dress 029
+Front of Store,Clearance,Hoodie,No,159,30,9,H&M Women Hoodie 030
+Endcap,10% Off,Jeans,No,157,60,54,H&M Women Jeans 031
+Back Wall,20% Off,Summer Dress,Yes,17,30,24,H&M Women Summer Dress 032
+Endcap,20% Off,Blouse,No,47,15,12,H&M Women Blouse 033
+Front of Store,No Discount,Wide-Leg Trousers,No,91,45,45,H&M Women Wide-Leg Trousers 034
+Cash Counter Zone,10% Off,Hoodie,No,99,25,22,H&M Women Hoodie 035
+Back Wall,10% Off,Formal Shirt,No,82,30,27,H&M Women Formal Shirt 036
+Middle Aisle,10% Off,Wide-Leg Trousers,No,111,40,36,H&M Women Wide-Leg Trousers 037
+Near Fitting Rooms,20% Off,Skirt,Yes,100,25,20,H&M Women Skirt 038
+Endcap,30% Off,Puffer Jacket,Yes,124,120,84,H&M Women Puffer Jacket 039
+Front of Store,20% Off,Skirt,Yes,135,10,8,H&M Women Skirt 040
+Back Wall,10% Off,Skirt,Yes,24,10,9,H&M Women Skirt 041
+Front of Store,10% Off,Puffer Jacket,Yes,50,50,45,H&M Women Puffer Jacket 042
+Back Wall,10% Off,Blouse,No,100,20,18,H&M Women Blouse 043
+Window Display,50% Off,Formal Shirt,No,232,25,12,H&M Women Formal Shirt 044
+Middle Aisle,10% Off,Wide-Leg Trousers,No,75,50,45,H&M Women Wide-Leg Trousers 045
+Window Display,No Discount,Winter Coat,Yes,136,55,55,H&M Women Winter Coat 046
+Middle Aisle,30% Off,Cardigan,No,131,30,21,H&M Women Cardigan 047
+Near Fitting Rooms,Clearance,Puffer Jacket,Yes,132,55,28,H&M Women Puffer Jacket 048
+Cash Counter Zone,No Discount,Cardigan,No,39,20,20,H&M Women Cardigan 049
+Back Wall,30% Off,Skirt,Yes,100,15,10,H&M Women Skirt 050
+Middle Aisle,10% Off,T-Shirt,No,71,5,4,H&M Women T-Shirt 051
+Front of Store,No Discount,Hoodie,No,94,45,45,H&M Women Hoodie 052
+Cash Counter Zone,10% Off,Blouse,No,67,15,14,H&M Women Blouse 053
+Middle Aisle,10% Off,Formal Shirt,No,66,50,45,H&M Women Formal Shirt 054
+Window Display,30% Off,Summer Dress,Yes,139,15,10,H&M Women Summer Dress 055
+Middle Aisle,Clearance,T-Shirt,No,77,20,10,H&M Women T-Shirt 056
+Front of Store,50% Off,Skirt,Yes,137,35,18,H&M Women Skirt 057
+Front of Store,50% Off,Summer Dress,Yes,200,30,15,H&M Women Summer Dress 058
+Front of Store,50% Off,Jeans,No,110,25,12,H&M Women Jeans 059
+Near Fitting Rooms,10% Off,Blouse,No,30,25,22,H&M Women Blouse 060
+Window Display,50% Off,Wide-Leg Trousers,No,94,40,20,H&M Women Wide-Leg Trousers 061
+Near Fitting Rooms,50% Off,Winter Coat,Yes,134,120,60,H&M Women Winter Coat 062
+Window Display,Clearance,T-Shirt,No,111,15,8,H&M Women T-Shirt 063
+Near Fitting Rooms,20% Off,Puffer Jacket,Yes,55,110,88,H&M Women Puffer Jacket 064
+Front of Store,30% Off,Blouse,No,127,30,21,H&M Women Blouse 065
+Window Display,50% Off,Hoodie,No,142,30,15,H&M Women Hoodie 066
+Window Display,20% Off,Blouse,No,73,20,16,H&M Women Blouse 067
+Near Fitting Rooms,20% Off,Hoodie,No,118,40,32,H&M Women Hoodie 068
+Back Wall,No Discount,Puffer Jacket,Yes,99,85,85,H&M Women Puffer Jacket 069
+Window Display,20% Off,Blouse,No,73,10,8,H&M Women Blouse 070
+Endcap,20% Off,Jeans,No,137,35,28,H&M Women Jeans 071
+Near Fitting Rooms,Clearance,Skirt,Yes,113,20,6,H&M Women Skirt 072
+Front of Store,Clearance,Summer Dress,Yes,71,30,12,H&M Women Summer Dress 073
+Near Fitting Rooms,20% Off,Jeans,No,109,30,24,H&M Women Jeans 074
+Back Wall,Clearance,Formal Shirt,No,43,35,11,H&M Women Formal Shirt 075
+Near Fitting Rooms,10% Off,Blouse,No,19,30,27,H&M Women Blouse 076
+Back Wall,50% Off,Cardigan,No,98,20,10,H&M Women Cardigan 077
+Endcap,20% Off,Summer Dress,Yes,52,45,36,H&M Women Summer Dress 078
+Near Fitting Rooms,10% Off,Skirt,Yes,28,35,32,H&M Women Skirt 079
+Cash Counter Zone,50% Off,Cardigan,No,161,30,15,H&M Women Cardigan 080
+Window Display,10% Off,Jeans,No,78,30,27,H&M Women Jeans 081
+Near Fitting Rooms,20% Off,Jeans,No,117,50,40,H&M Women Jeans 082
+Cash Counter Zone,Clearance,Puffer Jacket,Yes,105,75,30,H&M Women Puffer Jacket 083
+Middle Aisle,No Discount,Blouse,No,43,25,25,H&M Women Blouse 084
+Cash Counter Zone,30% Off,Skirt,Yes,126,20,14,H&M Women Skirt 085
+Window Display,No Discount,Skirt,Yes,74,35,35,H&M Women Skirt 086
+Endcap,No Discount,Cardigan,No,101,25,25,H&M Women Cardigan 087
+Near Fitting Rooms,50% Off,Winter Coat,Yes,45,90,45,H&M Women Winter Coat 088
+Window Display,50% Off,T-Shirt,No,93,15,8,H&M Women T-Shirt 089
+Endcap,Clearance,Winter Coat,Yes,161,90,36,H&M Women Winter Coat 090
+Back Wall,10% Off,Winter Coat,Yes,20,80,72,H&M Women Winter Coat 091
+Front of Store,50% Off,Winter Coat,Yes,122,70,35,H&M Women Winter Coat 092
+Endcap,50% Off,Puffer Jacket,Yes,190,90,45,H&M Women Puffer Jacket 093
+Back Wall,20% Off,T-Shirt,No,56,20,16,H&M Women T-Shirt 094
+Near Fitting Rooms,20% Off,Winter Coat,Yes,39,60,48,H&M Women Winter Coat 095
+Near Fitting Rooms,30% Off,Winter Coat,Yes,149,65,46,H&M Women Winter Coat 096
+Middle Aisle,50% Off,T-Shirt,No,91,5,2,H&M Women T-Shirt 097
+Middle Aisle,50% Off,Skirt,Yes,138,30,15,H&M Women Skirt 098
+Middle Aisle,30% Off,Formal Shirt,No,94,45,31,H&M Women Formal Shirt 099
+Cash Counter Zone,Clearance,Formal Shirt,No,63,25,8,H&M Women Formal Shirt 100
+Near Fitting Rooms,Clearance,Hoodie,No,98,40,16,H&M Women Hoodie 101
+Near Fitting Rooms,20% Off,Skirt,Yes,118,15,12,H&M Women Skirt 102
+Window Display,No Discount,Skirt,Yes,86,10,10,H&M Women Skirt 103
+Cash Counter Zone,No Discount,Wide-Leg Trousers,No,68,35,35,H&M Women Wide-Leg Trousers 104
+Back Wall,10% Off,Puffer Jacket,Yes,78,100,90,H&M Women Puffer Jacket 105
+Window Display,10% Off,Winter Coat,Yes,127,40,36,H&M Women Winter Coat 106
+Window Display,10% Off,Winter Coat,Yes,87,120,108,H&M Women Winter Coat 107
+Window Display,No Discount,Hoodie,No,71,35,35,H&M Women Hoodie 108
+Back Wall,50% Off,Puffer Jacket,Yes,188,90,45,H&M Women Puffer Jacket 109
+Back Wall,Clearance,Formal Shirt,No,133,40,16,H&M Women Formal Shirt 110
+Near Fitting Rooms,30% Off,Jeans,No,116,55,38,H&M Women Jeans 111
+Cash Counter Zone,Clearance,Skirt,Yes,137,20,6,H&M Women Skirt 112
+Endcap,30% Off,Skirt,Yes,169,10,7,H&M Women Skirt 113
+Endcap,20% Off,T-Shirt,No,51,5,4,H&M Women T-Shirt 114
+Middle Aisle,Clearance,Skirt,Yes,66,15,5,H&M Women Skirt 115
+Middle Aisle,20% Off,Winter Coat,Yes,68,110,88,H&M Women Winter Coat 116
+Window Display,30% Off,Summer Dress,Yes,181,30,21,H&M Women Summer Dress 117
+Middle Aisle,30% Off,Wide-Leg Trousers,No,99,20,14,H&M Women Wide-Leg Trousers 118
+Cash Counter Zone,30% Off,Winter Coat,Yes,111,75,52,H&M Women Winter Coat 119
+Middle Aisle,30% Off,T-Shirt,No,105,5,4,H&M Women T-Shirt 120
+Near Fitting Rooms,30% Off,Puffer Jacket,Yes,152,65,46,H&M Women Puffer Jacket 121
+Back Wall,50% Off,Jeans,No,122,20,10,H&M Women Jeans 122
+Near Fitting Rooms,No Discount,Wide-Leg Trousers,No,97,20,20,H&M Women Wide-Leg Trousers 123
+Window Display,30% Off,Winter Coat,Yes,91,65,46,H&M Women Winter Coat 124
+Window Display,30% Off,Cardigan,No,160,25,18,H&M Women Cardigan 125
+Cash Counter Zone,30% Off,T-Shirt,No,75,15,10,H&M Women T-Shirt 126
+Near Fitting Rooms,50% Off,Summer Dress,Yes,93,15,8,H&M Women Summer Dress 127
+Front of Store,Clearance,Puffer Jacket,Yes,89,45,22,H&M Women Puffer Jacket 128
+Window Display,10% Off,Wide-Leg Trousers,No,92,25,22,H&M Women Wide-Leg Trousers 129
+Window Display,30% Off,Wide-Leg Trousers,No,149,45,31,H&M Women Wide-Leg Trousers 130
+Back Wall,50% Off,Jeans,No,186,25,12,H&M Women Jeans 131
+Endcap,No Discount,Jeans,No,100,20,20,H&M Women Jeans 132
+Middle Aisle,30% Off,Puffer Jacket,Yes,81,70,49,H&M Women Puffer Jacket 133
+Window Display,No Discount,Puffer Jacket,Yes,150,85,85,H&M Women Puffer Jacket 134
+Cash Counter Zone,50% Off,Blouse,No,113,10,5,H&M Women Blouse 135
+Near Fitting Rooms,20% Off,Winter Coat,Yes,79,50,40,H&M Women Winter Coat 136
+Endcap,No Discount,Puffer Jacket,Yes,161,105,105,H&M Women Puffer Jacket 137
+Middle Aisle,20% Off,Blouse,No,105,25,20,H&M Women Blouse 138
+Middle Aisle,10% Off,Jeans,No,98,60,54,H&M Women Jeans 139
+Back Wall,50% Off,T-Shirt,No,121,20,10,H&M Women T-Shirt 140
+Endcap,20% Off,Wide-Leg Trousers,No,61,50,40,H&M Women Wide-Leg Trousers 141
+Middle Aisle,10% Off,T-Shirt,No,87,20,18,H&M Women T-Shirt 142
+Near Fitting Rooms,30% Off,Wide-Leg Trousers,No,69,30,21,H&M Women Wide-Leg Trousers 143
+Window Display,30% Off,Cardigan,No,157,20,14,H&M Women Cardigan 144
+Endcap,50% Off,Cardigan,No,115,40,20,H&M Women Cardigan 145
+Window Display,No Discount,Hoodie,No,143,25,25,H&M Women Hoodie 146
+Back Wall,10% Off,Formal Shirt,No,75,45,40,H&M Women Formal Shirt 147
+Near Fitting Rooms,30% Off,Puffer Jacket,Yes,137,110,77,H&M Women Puffer Jacket 148
+Endcap,10% Off,Blouse,No,128,25,22,H&M Women Blouse 149
+Near Fitting Rooms,50% Off,T-Shirt,No,130,15,8,H&M Women T-Shirt 150
+Endcap,30% Off,Shorts,Yes,138,30,21,H&M Men Shorts 001
+Endcap,20% Off,Polo Shirt,No,52,20,16,H&M Men Polo Shirt 002
+Front of Store,Clearance,Sweatshirt,No,93,40,12,H&M Men Sweatshirt 003
+Endcap,Clearance,Winter Jacket,Yes,99,120,36,H&M Men Winter Jacket 004
+Window Display,20% Off,Polo Shirt,No,63,20,16,H&M Men Polo Shirt 005
+Window Display,20% Off,Shorts,Yes,66,10,8,H&M Men Shorts 006
+Near Fitting Rooms,10% Off,Polo Shirt,No,28,30,27,H&M Men Polo Shirt 007
+Back Wall,20% Off,T-Shirt,No,76,20,16,H&M Men T-Shirt 008
+Endcap,10% Off,Winter Jacket,Yes,87,45,40,H&M Men Winter Jacket 009
+Cash Counter Zone,No Discount,Shirt,No,77,30,30,H&M Men Shirt 010
+Back Wall,Clearance,Shirt,No,63,40,20,H&M Men Shirt 011
+Endcap,No Discount,Suit Trousers,No,75,45,45,H&M Men Suit Trousers 012
+Back Wall,50% Off,Hoodie,No,128,50,25,H&M Men Hoodie 013
+Middle Aisle,30% Off,Shorts,Yes,128,25,18,H&M Men Shorts 014
+Middle Aisle,20% Off,Suit Trousers,No,94,75,60,H&M Men Suit Trousers 015
+Back Wall,Clearance,T-Shirt,No,128,5,2,H&M Men T-Shirt 016
+Near Fitting Rooms,No Discount,Polo Shirt,No,45,20,20,H&M Men Polo Shirt 017
+Back Wall,No Discount,Jeans,No,15,30,30,H&M Men Jeans 018
+Middle Aisle,Clearance,Hoodie,No,74,40,16,H&M Men Hoodie 019
+Endcap,Clearance,Chinos,No,121,30,9,H&M Men Chinos 020
+Cash Counter Zone,Clearance,Polo Shirt,No,196,35,11,H&M Men Polo Shirt 021
+Middle Aisle,No Discount,Chinos,No,43,40,40,H&M Men Chinos 022
+Window Display,20% Off,Overcoat,Yes,37,80,64,H&M Men Overcoat 023
+Cash Counter Zone,20% Off,Jeans,No,71,40,32,H&M Men Jeans 024
+Middle Aisle,Clearance,Shirt,No,146,25,8,H&M Men Shirt 025
+Back Wall,50% Off,Polo Shirt,No,96,30,15,H&M Men Polo Shirt 026
+Front of Store,30% Off,Suit Trousers,No,139,55,38,H&M Men Suit Trousers 027
+Window Display,Clearance,Shirt,No,181,45,14,H&M Men Shirt 028
+Cash Counter Zone,20% Off,Overcoat,Yes,20,150,120,H&M Men Overcoat 029
+Middle Aisle,50% Off,Jeans,No,81,55,28,H&M Men Jeans 030
+Middle Aisle,Clearance,Suit Trousers,No,117,65,32,H&M Men Suit Trousers 031
+Endcap,20% Off,Hoodie,No,48,45,36,H&M Men Hoodie 032
+Middle Aisle,Clearance,Sweatshirt,No,179,35,14,H&M Men Sweatshirt 033
+Cash Counter Zone,50% Off,Hoodie,No,98,20,10,H&M Men Hoodie 034
+Endcap,20% Off,Sweatshirt,No,148,20,16,H&M Men Sweatshirt 035
+Cash Counter Zone,No Discount,Shorts,Yes,74,30,30,H&M Men Shorts 036
+Front of Store,10% Off,Hoodie,No,110,40,36,H&M Men Hoodie 037
+Near Fitting Rooms,30% Off,Winter Jacket,Yes,78,45,31,H&M Men Winter Jacket 038
+Window Display,20% Off,Shorts,Yes,145,25,20,H&M Men Shorts 039
+Front of Store,Clearance,Shirt,No,164,35,18,H&M Men Shirt 040
+Front of Store,50% Off,Shorts,Yes,77,25,12,H&M Men Shorts 041
+Front of Store,Clearance,Winter Jacket,Yes,186,60,24,H&M Men Winter Jacket 042
+Middle Aisle,30% Off,Polo Shirt,No,95,30,21,H&M Men Polo Shirt 043
+Window Display,30% Off,Shorts,Yes,161,15,10,H&M Men Shorts 044
+Endcap,30% Off,Shirt,No,194,25,18,H&M Men Shirt 045
+Endcap,Clearance,T-Shirt,No,192,15,5,H&M Men T-Shirt 046
+Middle Aisle,50% Off,Jeans,No,100,55,28,H&M Men Jeans 047
+Cash Counter Zone,50% Off,Shorts,Yes,152,25,12,H&M Men Shorts 048
+Cash Counter Zone,10% Off,Sweatshirt,No,45,45,40,H&M Men Sweatshirt 049
+Middle Aisle,10% Off,Suit Trousers,No,20,60,54,H&M Men Suit Trousers 050
+Near Fitting Rooms,30% Off,Sweatshirt,No,162,45,31,H&M Men Sweatshirt 051
+Near Fitting Rooms,Clearance,Hoodie,No,47,25,10,H&M Men Hoodie 052
+Back Wall,20% Off,Shorts,Yes,71,10,8,H&M Men Shorts 053
+Back Wall,30% Off,Shirt,No,136,15,10,H&M Men Shirt 054
+Cash Counter Zone,Clearance,Hoodie,No,145,25,12,H&M Men Hoodie 055
+Endcap,50% Off,Polo Shirt,No,154,30,15,H&M Men Polo Shirt 056
+Cash Counter Zone,50% Off,Overcoat,Yes,115,120,60,H&M Men Overcoat 057
+Cash Counter Zone,50% Off,Winter Jacket,Yes,118,45,22,H&M Men Winter Jacket 058
+Near Fitting Rooms,Clearance,Chinos,No,135,30,15,H&M Men Chinos 059
+Front of Store,Clearance,Hoodie,No,130,45,22,H&M Men Hoodie 060
+Front of Store,20% Off,T-Shirt,No,84,5,4,H&M Men T-Shirt 061
+Middle Aisle,10% Off,Sweatshirt,No,82,25,22,H&M Men Sweatshirt 062
+Back Wall,Clearance,Hoodie,No,67,50,25,H&M Men Hoodie 063
+Back Wall,30% Off,Shirt,No,137,35,24,H&M Men Shirt 064
+Back Wall,10% Off,Winter Jacket,Yes,74,75,68,H&M Men Winter Jacket 065
+Endcap,30% Off,Overcoat,Yes,159,100,70,H&M Men Overcoat 066
+Near Fitting Rooms,50% Off,Polo Shirt,No,72,20,10,H&M Men Polo Shirt 067
+Back Wall,20% Off,Sweatshirt,No,69,45,36,H&M Men Sweatshirt 068
+Middle Aisle,20% Off,Polo Shirt,No,64,20,16,H&M Men Polo Shirt 069
+Front of Store,10% Off,Winter Jacket,Yes,120,100,90,H&M Men Winter Jacket 070
+Endcap,Clearance,Suit Trousers,No,171,50,25,H&M Men Suit Trousers 071
+Back Wall,Clearance,T-Shirt,No,161,5,2,H&M Men T-Shirt 072
+Cash Counter Zone,10% Off,Polo Shirt,No,117,35,32,H&M Men Polo Shirt 073
+Window Display,Clearance,Sweatshirt,No,128,25,8,H&M Men Sweatshirt 074
+Front of Store,Clearance,Overcoat,Yes,175,65,26,H&M Men Overcoat 075
+Endcap,Clearance,Suit Trousers,No,128,40,20,H&M Men Suit Trousers 076
+Window Display,10% Off,Jeans,No,104,60,54,H&M Men Jeans 077
+Endcap,10% Off,Shorts,Yes,160,20,18,H&M Men Shorts 078
+Near Fitting Rooms,20% Off,Polo Shirt,No,74,15,12,H&M Men Polo Shirt 079
+Window Display,10% Off,Shirt,No,136,45,40,H&M Men Shirt 080
+Endcap,No Discount,Shorts,Yes,42,25,25,H&M Men Shorts 081
+Front of Store,30% Off,Shorts,Yes,194,20,14,H&M Men Shorts 082
+Middle Aisle,Clearance,Suit Trousers,No,135,55,28,H&M Men Suit Trousers 083
+Front of Store,50% Off,Winter Jacket,Yes,141,90,45,H&M Men Winter Jacket 084
+Cash Counter Zone,30% Off,Overcoat,Yes,144,105,74,H&M Men Overcoat 085
+Window Display,No Discount,Shirt,No,94,15,15,H&M Men Shirt 086
+Front of Store,10% Off,Shirt,No,66,35,32,H&M Men Shirt 087
+Endcap,Clearance,Winter Jacket,Yes,195,105,32,H&M Men Winter Jacket 088
+Near Fitting Rooms,No Discount,Hoodie,No,77,50,50,H&M Men Hoodie 089
+Middle Aisle,20% Off,Suit Trousers,No,103,30,24,H&M Men Suit Trousers 090
+Window Display,30% Off,Sweatshirt,No,152,35,24,H&M Men Sweatshirt 091
+Near Fitting Rooms,20% Off,Shirt,No,97,35,28,H&M Men Shirt 092
+Front of Store,30% Off,Sweatshirt,No,105,30,21,H&M Men Sweatshirt 093
+Near Fitting Rooms,10% Off,Shirt,No,96,40,36,H&M Men Shirt 094
+Front of Store,No Discount,Suit Trousers,No,64,55,55,H&M Men Suit Trousers 095
+Window Display,No Discount,Suit Trousers,No,88,70,70,H&M Men Suit Trousers 096
+Cash Counter Zone,10% Off,Chinos,No,114,30,27,H&M Men Chinos 097
+Cash Counter Zone,50% Off,Jeans,No,124,20,10,H&M Men Jeans 098
+Window Display,50% Off,Jeans,No,165,40,20,H&M Men Jeans 099
+Cash Counter Zone,No Discount,Overcoat,Yes,16,80,80,H&M Men Overcoat 100
+Cash Counter Zone,10% Off,Sweatshirt,No,56,40,36,H&M Men Sweatshirt 101
+Window Display,20% Off,T-Shirt,No,67,5,4,H&M Men T-Shirt 102
+Front of Store,Clearance,Shorts,Yes,174,10,4,H&M Men Shorts 103
+Back Wall,No Discount,Shorts,Yes,79,25,25,H&M Men Shorts 104
+Back Wall,No Discount,Chinos,No,115,45,45,H&M Men Chinos 105
+Back Wall,20% Off,Overcoat,Yes,97,130,104,H&M Men Overcoat 106
+Front of Store,30% Off,T-Shirt,No,148,20,14,H&M Men T-Shirt 107
+Near Fitting Rooms,30% Off,Winter Jacket,Yes,65,50,35,H&M Men Winter Jacket 108
+Window Display,No Discount,Suit Trousers,No,99,40,40,H&M Men Suit Trousers 109
+Back Wall,50% Off,Overcoat,Yes,121,110,55,H&M Men Overcoat 110
+Endcap,30% Off,Shorts,Yes,155,30,21,H&M Men Shorts 111
+Cash Counter Zone,Clearance,Shirt,No,182,40,12,H&M Men Shirt 112
+Middle Aisle,30% Off,Chinos,No,108,25,18,H&M Men Chinos 113
+Middle Aisle,30% Off,Winter Jacket,Yes,102,55,38,H&M Men Winter Jacket 114
+Near Fitting Rooms,20% Off,Sweatshirt,No,34,30,24,H&M Men Sweatshirt 115
+Middle Aisle,No Discount,Overcoat,Yes,25,70,70,H&M Men Overcoat 116
+Middle Aisle,No Discount,Shirt,No,109,40,40,H&M Men Shirt 117
+Cash Counter Zone,10% Off,Sweatshirt,No,22,40,36,H&M Men Sweatshirt 118
+Back Wall,50% Off,Suit Trousers,No,127,55,28,H&M Men Suit Trousers 119
+Endcap,Clearance,Hoodie,No,158,50,20,H&M Men Hoodie 120
+Endcap,20% Off,Suit Trousers,No,130,35,28,H&M Men Suit Trousers 121
+Window Display,Clearance,Chinos,No,115,35,18,H&M Men Chinos 122
+Front of Store,20% Off,Sweatshirt,No,80,40,32,H&M Men Sweatshirt 123
+Cash Counter Zone,50% Off,Shorts,Yes,162,30,15,H&M Men Shorts 124
+Front of Store,50% Off,Shorts,Yes,76,20,10,H&M Men Shorts 125
+Endcap,20% Off,Polo Shirt,No,57,15,12,H&M Men Polo Shirt 126
+Near Fitting Rooms,30% Off,Suit Trousers,No,100,35,24,H&M Men Suit Trousers 127
+Front of Store,No Discount,Overcoat,Yes,76,140,140,H&M Men Overcoat 128
+Middle Aisle,20% Off,Hoodie,No,62,25,20,H&M Men Hoodie 129
+Near Fitting Rooms,20% Off,Polo Shirt,No,91,35,28,H&M Men Polo Shirt 130
+Front of Store,10% Off,Shirt,No,160,20,18,H&M Men Shirt 131
+Near Fitting Rooms,No Discount,T-Shirt,No,71,15,15,H&M Men T-Shirt 132
+Middle Aisle,30% Off,Overcoat,Yes,105,130,91,H&M Men Overcoat 133
+Cash Counter Zone,50% Off,Chinos,No,106,20,10,H&M Men Chinos 134
+Endcap,Clearance,Shirt,No,159,40,12,H&M Men Shirt 135
+Window Display,30% Off,T-Shirt,No,77,5,4,H&M Men T-Shirt 136
+Cash Counter Zone,10% Off,Chinos,No,52,30,27,H&M Men Chinos 137
+Front of Store,No Discount,Sweatshirt,No,147,35,35,H&M Men Sweatshirt 138
+Window Display,30% Off,Jeans,No,181,60,42,H&M Men Jeans 139
+Cash Counter Zone,Clearance,Shorts,Yes,140,20,10,H&M Men Shorts 140
+Middle Aisle,No Discount,T-Shirt,No,24,20,20,H&M Men T-Shirt 141
+Back Wall,30% Off,Sweatshirt,No,131,40,28,H&M Men Sweatshirt 142
+Middle Aisle,20% Off,Overcoat,Yes,66,75,60,H&M Men Overcoat 143
+Endcap,10% Off,T-Shirt,No,136,20,18,H&M Men T-Shirt 144
+Middle Aisle,No Discount,Shirt,No,70,20,20,H&M Men Shirt 145
+Middle Aisle,50% Off,Suit Trousers,No,140,35,18,H&M Men Suit Trousers 146
+Near Fitting Rooms,20% Off,Polo Shirt,No,57,20,16,H&M Men Polo Shirt 147
+Front of Store,50% Off,Jeans,No,156,25,12,H&M Men Jeans 148
+Endcap,Clearance,Sweatshirt,No,90,45,22,H&M Men Sweatshirt 149
+Window Display,10% Off,Polo Shirt,No,48,35,32,H&M Men Polo Shirt 150
